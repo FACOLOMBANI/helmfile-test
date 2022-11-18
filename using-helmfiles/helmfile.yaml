@@ -1,0 +1,4 @@
+helmfiles:
+- path: "releases/first/helmfile.yaml"
+- path: "releases/second/helmfile.yaml"
+- path: "releases/third/helmfile.yaml"
